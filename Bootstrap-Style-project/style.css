@@ -1,0 +1,27 @@
+.slider-img{
+    height: 80vh;
+}
+.logo{
+    font-weight: bold;
+    color: rgb(248, 188, 34);
+    font-size: 30px;
+    text-decoration: none;
+}
+.navbar_design{
+    margin-left: 60px;
+}
+.bg_color{
+    background-color:#ced4da;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card-header-design{
+    padding: 3vh; 
+    background-color: black; 
+    color: whitesmoke;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius:8px;
+}
